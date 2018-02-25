@@ -1,0 +1,7 @@
+{
+	  "messageType":"sms",
+    "fromPhone": "444-444-4444",
+    "toPhone": "555-555-5555",
+    "message": "This is a text message"
+  }
+}
