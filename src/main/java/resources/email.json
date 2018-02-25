@@ -1,0 +1,9 @@
+{
+	  "messageType":"email",
+    "toEmail": "abc@example.com",
+    "fromEmail": "krantz@gmail.com",
+    "senderName": "kranthi",
+    "subject": "This is a subject",
+    "message": "This is an email"
+  }
+}
